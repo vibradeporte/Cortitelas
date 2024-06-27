@@ -10,7 +10,7 @@ app.version = "0.0.1"
 
 # Configuración de CORS
 origins = [
-    "https://elasistenteia.com/"
+    "https://elasistenteia.com"
 
 ]
 
